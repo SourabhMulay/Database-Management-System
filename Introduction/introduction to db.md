@@ -61,4 +61,5 @@ The complete description of data is given by logical view so it sometimes called
 
 **Internal/Physical view:** Every algorithm,,,Data compression..hashing..encryption...decryption...indexing stored here in this schema.
 
-Here changes at one level does not affect...Especially...changes at lower level will not affect upper levels. Thats how here we acheive data independancy.
+Here changes at one (lower) level does not affect...Especially...changes at lower level will not affect upper levels. Thats how here we acheive data independancy. Upper level changes does affect lower level tho.
+
