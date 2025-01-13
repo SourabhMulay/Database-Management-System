@@ -63,3 +63,4 @@ The complete description of data is given by logical view so it sometimes called
 
 Here changes at one (lower) level does not affect...Especially...changes at lower level will not affect upper levels. Thats how here we acheive data independancy. Upper level changes does affect lower level tho.
 
+<hr>
