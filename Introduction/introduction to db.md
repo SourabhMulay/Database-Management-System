@@ -54,3 +54,11 @@ We have at external level External views....For example if we have 50 column tab
 **External Level:** It has multiple external view which are independant, so 50 columns can destributes 10 10 column wise section and one cannot affect other!!! This views maybe one for sales team then another view is for your engineering team , another one for marketing. Like wise so each external view can be own by single user group.
 
 **DBA or databases Admin has Logical/Conceptual View:** What data we have stored in databased is shown by locgical and conceptual view. 
+
+###### and How data stored in database is shown by Physical/Internal schema/view.
+
+The complete description of data is given by logical view so it sometimes called as a Community view!.
+
+**Internal/Physical view:** Every algorithm,,,Data compression..hashing..encryption...decryption...indexing stored here in this schema.
+
+Here changes at one level does not affect...Especially...changes at lower level will not affect upper levels. Thats how here we acheive data independancy.
