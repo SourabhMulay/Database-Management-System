@@ -74,3 +74,12 @@ Basic Terms!!
 3. **Database Model:** It is schema it self.
 4. **Data Model:** We need tools to form the database model. So data model is nothing but the tools to desing the database model.
 
+Data models: (There are mutliple types)
+
+1. ER model
+2. Relational Model.
+
+Data model is complete if it answers for..
+1. storage (in form of tables)
+2. Manipulation languages (in Relational SQL)
+3. Integrity constrained. (Integrity means correct and constrained mean restriction. So these are restrictions which allow correct data in db)
