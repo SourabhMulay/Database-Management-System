@@ -66,3 +66,11 @@ The complete description of data is given by logical view so it sometimes called
 Here changes at one (lower) level does not affect...Especially...changes at lower level will not affect upper levels. Thats how here we acheive data independancy. Upper level changes does affect lower level tho.
 
 <hr>
+
+Basic Terms!!
+
+1. **Data Dictionary:** It is a database about database. We learnt about the metadata and Schema..Now that metadata and schema should have stored somewhere and that stored in data dictionary. It also maintain the file specification and (maybe security part as well).
+2. **Intention vs extention of database:** Schema, metadata, intention is same thing. It is a structure of system/db. Extention mean populating the data base. where the changes are frequent???? Intentions never have the frequent changes, it will only have in extentions in term of deletion, insertion of records.
+3. **Database Model:** It is schema it self.
+4. **Data Model:** We need tools to form the database model. So data model is nothing but the tools to desing the database model.
+
