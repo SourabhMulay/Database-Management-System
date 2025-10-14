@@ -44,4 +44,12 @@ You dont wanted to allow the acess of the database to the users who can make the
 
 so suppose the money is debited from bank account there should be check that not allow the balance to drop down at certain threshhold. and if bank branch is closed down then the accounts in that branch must not present under that branch so these are constraint needs to be there in databases. So early information systems aint have these.
 
+<hr>
+
+**Role of DBMS**
+
+So now the DBMS layer has been added in between the Application Program and the File Accessing sofwere. 
+
+<img width="702" height="393" alt="image" src="https://github.com/user-attachments/assets/de2f0533-1ecc-419d-b90f-4ee98c55ebea" />
+
 
