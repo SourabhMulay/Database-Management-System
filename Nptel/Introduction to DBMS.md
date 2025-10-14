@@ -40,4 +40,8 @@ and early systems dont have any mechanism to tackle such problems!
 
 You dont wanted to allow the acess of the database to the users who can make the changes in the data!
 
+**Integrity Constraints**
+
+so suppose the money is debited from bank account there should be check that not allow the balance to drop down at certain threshhold. and if bank branch is closed down then the accounts in that branch must not present under that branch so these are constraint needs to be there in databases. So early information systems aint have these.
+
 
