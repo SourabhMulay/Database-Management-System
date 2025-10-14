@@ -52,4 +52,9 @@ So now the DBMS layer has been added in between the Application Program and the 
 
 <img width="702" height="393" alt="image" src="https://github.com/user-attachments/assets/de2f0533-1ecc-419d-b90f-4ee98c55ebea" />
 
+**Overall Organization of Data: Data Abstraction**
 
+So database can broken up into several abstracted layers!
+
+1. Physical level/layer (what data has stored where and how!)
+2. Conceptual Level/layer
