@@ -57,4 +57,20 @@ So now the DBMS layer has been added in between the Application Program and the 
 So database can broken up into several abstracted layers!
 
 1. Physical level/layer (what data has stored where and how!)
-2. Conceptual Level/layer
+2. Conceptual Level/layer (Database administrator and programming of database)
+3. view level/layer (Database application Users)
+4. Users View (different set of users)
+
+**Schema and Instance**
+
+In programming as we first define the types of data then the variables! same in the database you have to define the schema (it's a defination) and the instance! instance is like different users may have different instances of same data!
+
+**Components of Database**
+
+1. Data Defination Language (DDL)
+2. Data Manipulation Language (DML)
+
+
+DDL: This is how you defined your whole database. (Like relationships)
+
+DML: you'll write your functions to work on data to be manipulated. It maybe procedural or non procedural and maybe the combination. Main operations are INSERT, DELETE, UPDATE, RETRIEVE. and the portion of this DML called Query Language! this will retrieve the data from database.
