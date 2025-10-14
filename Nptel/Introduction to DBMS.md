@@ -24,5 +24,10 @@ So **Data Isolation and Data Redundancy** was two major problems!
 
 Data become Redundant mean the same copy of data is there at multiple location/places. So there are high chances that same data has been access by differnt programs which can be at differnt places so data become inconsistant! suppose x is at 5 places they suppose one program changes x at some k position and second program changes at k1 position then x become inconsistant!! and this is very dangerous condition!
 
-Another problem occur when the computers become modern! **Concurrancy**!
+Another problem occur when the computers become modern! **The Concurrancy**!
+
+Concurrancy mean updation of sane data! If data is shared between two concurrant program then there is problem! suppose two people trying to book same seat at a same time! We know that for those 2 users the program instance were different but the Database is same!! 
+
+Suppose booking program first checks the availability of x seat. and then it first check the available seats in one of table and then it writes the ticket number in that perticular seat and then it increment the total number of seats! So this cannot be done in single go! every program take significant amount of time! so now at the same time other user tried booking so yet the seat x is not booked yet the seat x has been acessed as notbooked seat and it will write another number on that seat x and then there is problem that both gets the same seat or a ticket for seat x with maybe same of differnt ticket number.
+
 
