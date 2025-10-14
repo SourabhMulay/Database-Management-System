@@ -4,3 +4,8 @@ A databse is collection of inter-related data which we called database and the s
 
 Examples of information systems that requires the databases:
 
+1. Bank systems
+2. Library Information Systems (Book borrowing, Donating, Supplier, Issueing the books)
+3. Railway/Airline Reservation Systems.
+
+
