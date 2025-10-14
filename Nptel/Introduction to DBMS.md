@@ -34,3 +34,10 @@ Suppose booking program first checks the availability of x seat. and then it fir
 
 and if you programmed it in sequencial manner then you'll never ever get the ticket 🤡.
 
+and early systems dont have any mechanism to tackle such problems!
+
+**Security Problem**
+
+You dont wanted to allow the acess of the database to the users who can make the changes in the data!
+
+
