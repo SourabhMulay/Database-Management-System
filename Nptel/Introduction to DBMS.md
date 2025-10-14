@@ -30,4 +30,7 @@ Concurrancy mean updation of sane data! If data is shared between two concurrant
 
 Suppose booking program first checks the availability of x seat. and then it first check the available seats in one of table and then it writes the ticket number in that perticular seat and then it increment the total number of seats! So this cannot be done in single go! every program take significant amount of time! so now at the same time other user tried booking so yet the seat x is not booked yet the seat x has been acessed as notbooked seat and it will write another number on that seat x and then there is problem that both gets the same seat or a ticket for seat x with maybe same of differnt ticket number.
 
+<img width="712" height="365" alt="image" src="https://github.com/user-attachments/assets/ebb82cb0-ce9d-4418-ae42-e7b14de0df85" />
+
+and if you programmed it in sequencial manner then you'll never ever get the ticket 🤡.
 
