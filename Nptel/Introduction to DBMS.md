@@ -16,4 +16,10 @@ In early systems you have many programs (suppose debiting, crediting, interest c
 
 <img width="660" height="186" alt="image" src="https://github.com/user-attachments/assets/e2d82bd0-581a-437d-8f94-f63393f46ee4" />
 
+**Problems with Early Information Systems:**
 
+The first and most dangerous problems is **Disorganised Development/Management**! so actually nobody knew what process has updated what kind of data and whenever user wanted to use data they dont know which data is there and which is not, so they started replicating the same data. So problem come with **Data isolation and Data redundancy**, the relationship between data was unknown and the data seems lost becuase there is no formalisation over what information what we want!
+
+So **Data Isolation and Data Redundancy** was two major problems!
+
+Data become Redundant mean the same copy of data is there at multiple location/places. So there are high chances that same data has been access by differnt programs which can be at differnt places so data become inconsistant! suppose x is at 5 places they suppose one program changes x at some k position and second program changes at k1 position then x become inconsistant!! and this is very dangerous condition!
