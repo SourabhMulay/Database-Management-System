@@ -25,3 +25,4 @@ So **Data Isolation and Data Redundancy** was two major problems!
 Data become Redundant mean the same copy of data is there at multiple location/places. So there are high chances that same data has been access by differnt programs which can be at differnt places so data become inconsistant! suppose x is at 5 places they suppose one program changes x at some k position and second program changes at k1 position then x become inconsistant!! and this is very dangerous condition!
 
 Another problem occur when the computers become modern! **Concurrancy**!
+
