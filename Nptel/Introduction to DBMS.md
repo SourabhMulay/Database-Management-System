@@ -74,3 +74,10 @@ In programming as we first define the types of data then the variables! same in 
 DDL: This is how you defined your whole database. (Like relationships)
 
 DML: you'll write your functions to work on data to be manipulated. It maybe procedural or non procedural and maybe the combination. Main operations are INSERT, DELETE, UPDATE, RETRIEVE. and the portion of this DML called Query Language! this will retrieve the data from database.
+
+
+<img width="848" height="605" alt="image" src="https://github.com/user-attachments/assets/044f5ab9-2d80-42dd-a45c-11270cea615d" />
+
+The role of database manager is very important:
+1. concurrancy control and redundancy control
+   
