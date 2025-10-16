@@ -75,9 +75,8 @@ DDL: This is how you defined your whole database. (Like relationships)
 
 DML: you'll write your functions to work on data to be manipulated. It maybe procedural or non procedural and maybe the combination. Main operations are INSERT, DELETE, UPDATE, RETRIEVE. and the portion of this DML called Query Language! this will retrieve the data from database.
 
+<img width="852" height="605" alt="image" src="https://github.com/user-attachments/assets/3ee884c7-cac1-4c82-bd3c-2fb06787473a" />
 
-<img width="848" height="605" alt="image" src="https://github.com/user-attachments/assets/044f5ab9-2d80-42dd-a45c-11270cea615d" />
+Db Scheme is the struture of data and application programs designed to work on it! query are question asked to db for retrival! and API's are menu driven interfaces (like reservation, cancellation of tickets)! The structure of database or information about data is stored in the Data Dictionary! (like what are field and their association and the type, length all these things are getting stored in data dictionary). DML compiler will create a Object Code to run! There is nothing to be more explained becuase picture itself is more explainatory!
 
-The role of database manager is very important:
-1. concurrancy control and redundancy control
-   
+
