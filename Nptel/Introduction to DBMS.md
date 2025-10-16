@@ -77,6 +77,6 @@ DML: you'll write your functions to work on data to be manipulated. It maybe pro
 
 <img width="852" height="605" alt="image" src="https://github.com/user-attachments/assets/3ee884c7-cac1-4c82-bd3c-2fb06787473a" />
 
-Db Scheme is the struture of data and application programs designed to work on it! query are question asked to db for retrival! and API's are menu driven interfaces (like reservation, cancellation of tickets)! The structure of database or information about data is stored in the Data Dictionary! (like what are field and their association and the type, length all these things are getting stored in data dictionary). DML compiler will create a Object Code to run! There is nothing to be more explained becuase picture itself is more explainatory!
+Db Scheme is the struture of data and application programs designed to work on it! query are question asked to db for retrival! and API's are menu driven interfaces (like reservation, cancellation of tickets)! The structure of database or information about data is stored in the Data Dictionary! (like what are field and their association and the type, length all these things are getting stored in data dictionary). DML compiler will create a Object Code to run!and Data files may indexed to get the access of data in minimal complexity! so they are index means they are places in order so retrieval is easier and faster!! It uses most of data Structures! There is nothing to be more explained becuase picture itself is more explainatory!
 
 
