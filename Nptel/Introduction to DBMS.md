@@ -86,3 +86,27 @@ Db Scheme is the struture of data and application programs designed to work on i
 
 #### Data Models
 
+**Logical Data Models**
+
+1. Entity-Relationship Model
+2. Relational Model
+3. Network Model
+4. Hierarchical Model
+5. Object-Oriented Model
+6. Semantic Data Model
+7. Functional Data Model
+
+2,3,4 often called as Record Based Models! 
+
+
+### E-R Model
+
+Suppose we want to conceptually model a Library! So first we need to identify the basic Entities the attributes and that will be core of Model,
+
+So suppose we have Entities : " BOOK ". " Users " 
+
+and the book has attributes:
+
+`Book: (Acc.No, Title, Author, Year Of Publication, publisher)`
+
+`Users : (Card No, Name, Address, Status, )`
