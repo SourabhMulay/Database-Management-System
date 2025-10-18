@@ -109,4 +109,22 @@ and the book has attributes:
 
 `Book: (Acc.No, Title, Author, Year Of Publication, publisher)`
 
-`Users : (Card No, Name, Address, Status, )`
+`Users : (Card No, Name, Address, Status (student, faculty, staff), Code (roll No, employee code, staff code))`
+
+Other than entities we have Relations! the relationship between entities are shown as relations!!
+
+Most comman relation between book and user is `Borrowed By` ! like mapping user with books!!
+
+<img width="1334" height="694" alt="image" src="https://github.com/user-attachments/assets/baab988e-edff-4639-8b4d-e6161f129f54" />
+
+Even the relation can have attributes: 
+
+`Borrowed By: (Date of Issue)`
+
+So this diagramatic representation or E-R Model! and you can express many type of constraints (like one book can be only borrowed by one user).
+
+
+
+
+
+
