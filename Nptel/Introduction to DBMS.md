@@ -99,7 +99,7 @@ Db Scheme is the struture of data and application programs designed to work on i
 2,3,4 often called as Record Based Models! 
 
 
-### E-R Model
+### E-R MODEL
 
 Suppose we want to conceptually model a Library! So first we need to identify the basic Entities the attributes and that will be core of Model,
 
@@ -124,7 +124,9 @@ Even the relation can have attributes:
 So this diagramatic representation or E-R Model! and you can express many type of constraints (like one book can be only borrowed by one user).
 
 
+<hr>
 
+### RELATIONAL MODEL
 
-
+In relational model we express all information in term of relations or table.
 
