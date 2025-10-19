@@ -36,4 +36,12 @@ So each such distinguishable object, which can be identify for perticular DB is 
 
 **So all those entities which has same type or structure they form an Entity Set!**
 
+### **Attribute:**
+
+Attribute is mapping from an entiity set to a Domain!! 
+
+more clear:
+<img width="1149" height="330" alt="image" src="https://github.com/user-attachments/assets/ba77c796-9f9d-45bd-94bd-01383024477a" />
+
+
 
