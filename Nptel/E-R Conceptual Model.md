@@ -40,8 +40,16 @@ So each such distinguishable object, which can be identify for perticular DB is 
 
 Attribute is mapping from an entiity set to a Domain!! 
 
-more clear:
+More clear:
 <img width="1149" height="330" alt="image" src="https://github.com/user-attachments/assets/ba77c796-9f9d-45bd-94bd-01383024477a" />
+
+Considering an Example of Entity set: Student. (which has Name, Roll No)
+
+So suppose (s1 has name: Ak and RollNo: 1), (s2 has name: Bk and roll no: 2) , (s3 has name: Ck and rollno: 3). so now here,
+
+Entity Set `E = {s1, s2, s3}`
+`Domain of Name = set of all strings`
+`Domain of Age = set of all integers`
 
 
 
