@@ -48,7 +48,9 @@ Considering an Example of Entity set: Student. (which has Name, Roll No)
 So suppose (s1 has name: Ak and RollNo: 1), (s2 has name: Bk and roll no: 2) , (s3 has name: Ck and rollno: 3). so now here,
 
 Entity Set `E = {s1, s2, s3}`
+
 `Domain of Name = set of all strings`
+
 `Domain of Age = set of all integers`
 
 
