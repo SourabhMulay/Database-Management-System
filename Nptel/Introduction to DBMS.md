@@ -146,6 +146,3 @@ So in relational Model we have everything in form of Table:
 <img width="1219" height="628" alt="image" src="https://github.com/user-attachments/assets/580b5a7c-538e-4d01-80af-6f82b6724907" />
 
 <hr>
-
-
-
