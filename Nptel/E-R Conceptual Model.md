@@ -64,7 +64,14 @@ Entity Set **Book:**
 3. Year of Publication (DATE)
 4. publisher (STRING)
 5. Acc No (INTEGER)
-6. Call No (INTEGER)
+6. Call No (STRING)
+
+So, Each entity (like one row) gets assigned one value from that domain (like one possible value from the allowed set). and possible values in allowed set can be (STRING, DATE, INTEGER, FLOAT)!!
+
+Now i think you're understanding a bit!
+
+
+
 
 
 
