@@ -130,3 +130,22 @@ So this diagramatic representation or E-R Model! and you can express many type o
 
 In relational model we express all information in term of relations or table.
 
+Consider Book relation table: (with columns : Acc_no, title etc) 
+
+and also We have User Table: with columns ( Card No, Name ...) and 
+
+Borrowed By Table: (with columns: Date Of issue ... )
+
+the other fields in the borrowed by table is all fields of user and Book table! but as we know that if AccNo is unique that no two books has same Acc No! and same in the Users if we have unique Card No! then we can uniquely identify the Book and User table! So borrowed by table can have Acc No and Card No as two more columns! So it can be handled easily!
+
+Borrowed by Table: (With Columns : Date Of Issue, Acc No, Card No).
+
+So in relational Model we have everything in form of Table:
+
+
+<img width="1219" height="628" alt="image" src="https://github.com/user-attachments/assets/580b5a7c-538e-4d01-80af-6f82b6724907" />
+
+<hr>
+
+
+
