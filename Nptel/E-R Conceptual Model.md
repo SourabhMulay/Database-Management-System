@@ -37,25 +37,3 @@ So each such distinguishable object, which can be identify for perticular DB is 
 **So all those entities which has same type or structure they form an Entity Set!**
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
