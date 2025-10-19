@@ -53,5 +53,19 @@ Entity Set `E = {s1, s2, s3}`
 
 `Domain of Age = set of all integers`
 
+So attribute specify the part of an entity structure! and it's a mapping from an entity set to a Domain of Values!!
+
+So consider another example:
+
+Entity Set **Book:**
+
+1. Name/Title (STRING) This is maapping from entity set book to a STRING!! 
+2. Author (STRING)
+3. Year of Publication (DATE)
+4. publisher (STRING)
+5. Acc No (INTEGER)
+6. Call No (INTEGER)
+
+
 
 
