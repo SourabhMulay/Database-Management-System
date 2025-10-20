@@ -83,3 +83,8 @@ We can also visualise the relation between the Book and Supplier which can be sh
 
 <img width="1031" height="563" alt="image" src="https://github.com/user-attachments/assets/d8e53b78-f381-46c9-86fe-4238240f70e1" />
 
+
+and these relationships Like Borrowed By and Supplied by can have their own attributes: Like Borrowed by Has "Date of Issue"  and the supplied by can have "Date of Supplied"!
+
+
+
