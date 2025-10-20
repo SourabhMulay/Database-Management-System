@@ -71,10 +71,12 @@ So, Each entity (like one row) gets assigned one value from that domain (like on
 Now i think you're understanding a bit!
 
 
-### Relationship
+### Relationship:
 
 > This is Association or a Mapping between Entities!!
 
 So if we have two entities `Book` and `User`!! and if the book has been issues by k user then this can be shows using relationship `Borrowed By`!
+
+So this all relationships form a Relationship Set!
 
 
