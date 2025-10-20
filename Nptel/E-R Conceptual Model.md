@@ -79,7 +79,7 @@ So if we have two entities `Book` and `User`!! and if the book has been issues b
 
 So this all relationships form a Relationship Set!
 
-We can also visualise the relation between the Book and Supplier which can be shown as Supplied By:
+We can also visualise the relation between the Book and Supplier which can be shown as Supplied By: and it's by defination a Set so it cannot have the duplicates!
 
 <img width="1031" height="563" alt="image" src="https://github.com/user-attachments/assets/d8e53b78-f381-46c9-86fe-4238240f70e1" />
 
