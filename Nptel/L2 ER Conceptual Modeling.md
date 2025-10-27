@@ -24,3 +24,6 @@ Many - Many is allowes bother of above!! like many elements from 1st set can be 
 
 
 <hr>
+
+Now considering the element of Books to the Users how can we define these mapping constraints! lets see!
+
