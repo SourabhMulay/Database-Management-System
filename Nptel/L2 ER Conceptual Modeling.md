@@ -23,3 +23,4 @@ Many - Many is allowes bother of above!! like many elements from 1st set can be 
 <img width="1034" height="500" alt="image" src="https://github.com/user-attachments/assets/558c2917-cba5-4a91-b9c7-617291fe20ea" />
 
 
+<hr>
