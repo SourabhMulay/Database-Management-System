@@ -30,3 +30,8 @@ Now considering the element of Books to the Users how can we define these mappin
 If On any entity we put the incoming arrow then the entity to other participate in one to one `or` one to many relationship!
 
 <img width="1029" height="206" alt="image" src="https://github.com/user-attachments/assets/f53f6de1-bd8b-4368-ac83-181d5762174a" />
+
+But if we have dont mentioned or dont have an arraow! then that entity participate in many to one and many to many relationship!!
+
+<img width="894" height="123" alt="image" src="https://github.com/user-attachments/assets/3ae37348-2baa-4293-bf93-d28f90a7113d" />
+
