@@ -35,3 +35,5 @@ But if we have dont mentioned or dont have an arraow! then that entity participa
 
 <img width="894" height="123" alt="image" src="https://github.com/user-attachments/assets/3ae37348-2baa-4293-bf93-d28f90a7113d" />
 
+So if the book and User relationship has no arrows then they are in many to one or many to many relationships! and if both has arrows then they are either in one to one or one to many!!
+
