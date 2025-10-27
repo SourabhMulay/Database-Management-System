@@ -38,3 +38,9 @@ But if we have dont mentioned or dont have an arraow! then that entity participa
 So if the book and User relationship has no arrows then they are in many to one or many to many relationships! and if both has arrows then they are either in one to one or one to many!!
 
 **Lets see another example:**
+
+We have 
+
+Accounts: `Attr: Balance, Type, Acc.No`
+
+
