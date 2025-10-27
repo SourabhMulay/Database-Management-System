@@ -27,3 +27,6 @@ Many - Many is allowes bother of above!! like many elements from 1st set can be 
 
 Now considering the element of Books to the Users how can we define these mapping constraints! lets see!
 
+If On any entity we put the incoming arrow then the entity to other participate in one to one `or` one to many relationship!
+
+<img width="1029" height="206" alt="image" src="https://github.com/user-attachments/assets/f53f6de1-bd8b-4368-ac83-181d5762174a" />
