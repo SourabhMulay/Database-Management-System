@@ -37,10 +37,67 @@ But if we have dont mentioned or dont have an arraow! then that entity participa
 
 So if the book and User relationship has no arrows then they are in many to one or many to many relationships! and if both has arrows then they are either in one to one or one to many!!
 
-**Lets see another example:**
 
-We have 
+<hr>
 
-Accounts: `Attr: Balance, Type, Acc.No`
+#### Existence Dependencies
+
+Suppose the relationship exist between customer and Account!!
+
+Customer may have or may not have account. So suppose if we say that Account must be related to customer then the account's existence depends on the customer! so here the Customer is dominant entity and the Account is subordinate entity!! If the customer is removed the account is gone! becuase account's existence depends on the customer! If we want to ensure Customer must have account then we can do it other way around! 
+
+<img width="1367" height="766" alt="image" src="https://github.com/user-attachments/assets/68a582c8-cb96-4540-ac43-64076bf69f74" />
+
+
+<hr>
+
+#### Key Attribute
+
+**SuperKey:** A set of one or more attributes which taken collectively, allows us to uniquely identify an entity in an entity set!
+
+In an example of Book data entity!! the Accession Number can be superkey and in Users data entity the Card No can be a SuperKey! So superkey identify the entity instance uniquely in an entity set!
+
+A super key is any set of attributes that uniquely identifies a tuple (row) in a relation.
+
+👉 It may contain extra attributes.
+Example (User table):
+User(CardNo, Name, Address, Status, Code)
+
+If CardNo is unique, then all of these are super keys:
+
+{CardNo}
+
+{CardNo, Name}
+
+{CardNo, Address}
+
+{CardNo, Name, Address, Status, Code}
+
+All uniquely identify a user.
+
+
+**Candidate Key:**  This is a Super Key for which no proper subset is also a superKey!
+
+To understand this!! Lets say User has attributes: (Card No. (Superkey), Name, Address, staus, code)..
+
+Now if you start removing attributes (Name,....etc) so suppose it's still superkey then it's not candidate key.
+
+So candidate key is ... It is a super key from which you cannot remove any attribute without losing uniqueness.
+
+Apply this to your example
+
+Assume:
+CardNo uniquely identifies a user
+Case 1: {CardNo, Name}
+It is a super key (because CardNo is unique)
+Remove Name → {CardNo}
+Still uniquely identifies the user
+❌ So {CardNo, Name} is NOT a candidate key
+
+Case 2: {CardNo}
+It is a super key
+Remove CardNo → {}
+No longer identifies a user
+✅ So {CardNo} IS a candidate key
 
 
