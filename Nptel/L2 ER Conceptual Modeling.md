@@ -87,16 +87,25 @@ Assume:
 
 CardNo uniquely identifies a user
 
-Case 1: {CardNo, Name} /n
-It is a super key (because CardNo is unique) /n
-Remove Name → {CardNo} /n
-Still uniquely identifies the user /n
-❌ So {CardNo, Name} is NOT a candidate key /n
+> Case 1: {CardNo, Name} 
 
-Case 2: {CardNo}
+It is a super key (because CardNo is unique)
+
+Remove Name → {CardNo} 
+
+Still uniquely identifies the user 
+
+❌ So {CardNo, Name} is NOT a candidate key
+
+
+> Case 2: {CardNo}
+
 It is a super key
+
 Remove CardNo → {}
+
 No longer identifies a user
+
 ✅ So {CardNo} IS a candidate key
 
 
