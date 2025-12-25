@@ -73,7 +73,7 @@ If CardNo is unique, then all of these are super keys:
 All uniquely identify a user.
 
 
-**Candidate Key:**  This is a Super Key for which no proper subset is also a superKey!
+**Candidate Key:**  This is a Super Key for which no proper subset is also a superKey! So we can understand it like the minimal set of attributes required to identity the entity as unique! suppose we say that {card no, code} identify the book! suppose we remove the code and if the entity lost it's uniqueness then this is not a candidate key!! in all attribute of entity Book may or may not these {cardno, code} are minimal superkeys that identify the book uniquely!! 
 
 To understand this!! Lets say User has attributes: (Card No. (Superkey), Name, Address, staus, code)..
 
@@ -108,4 +108,14 @@ No longer identifies a user
 
 ✅ So {CardNo} IS a candidate key
 
+
+**Primary Key:**
+
+A candidate key chosen by the conceptual designer as the chief attribute set by which an entity is identified in an Entity set!
+
+<hr>
+
+Coming back to Existence Dependencies!!
+
+In the same example of Customer related to Account! and account's existence depends on the customer so we can say that the Account is a `Weak Entity`. and for sure the Customer is `Strong Entity`. In sense the weak entity does not have the Primary Key but you can find it from primary key of the strong entity! Account totally depends on Customer!
 
