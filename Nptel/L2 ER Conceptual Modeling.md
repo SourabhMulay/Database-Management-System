@@ -65,13 +65,10 @@ User(CardNo, Name, Address, Status, Code)
 
 If CardNo is unique, then all of these are super keys:
 
-{CardNo}
-
-{CardNo, Name}
-
-{CardNo, Address}
-
-{CardNo, Name, Address, Status, Code}
+1. {CardNo}
+2. {CardNo, Name}
+3. {CardNo, Address}
+4. {CardNo, Name, Address, Status, Code}
 
 All uniquely identify a user.
 
@@ -87,12 +84,14 @@ So candidate key is ... It is a super key from which you cannot remove any attri
 Apply this to your example
 
 Assume:
+
 CardNo uniquely identifies a user
-Case 1: {CardNo, Name}
-It is a super key (because CardNo is unique)
-Remove Name → {CardNo}
-Still uniquely identifies the user
-❌ So {CardNo, Name} is NOT a candidate key
+
+Case 1: {CardNo, Name} /n
+It is a super key (because CardNo is unique) /n
+Remove Name → {CardNo} /n
+Still uniquely identifies the user /n
+❌ So {CardNo, Name} is NOT a candidate key /n
 
 Case 2: {CardNo}
 It is a super key
