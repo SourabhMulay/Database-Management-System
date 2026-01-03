@@ -39,7 +39,7 @@ This covers: Conceptual Modeling, Relational Algebra/Calculas, SQL Query, Integr
 ## Database Decomposition
 <placeholder/>
 
-## File SYSTEM
+## File System
 <placeholder/>
 
 ## Recovery From Failure
