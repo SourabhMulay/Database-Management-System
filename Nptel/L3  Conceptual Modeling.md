@@ -43,7 +43,8 @@ aggrigate entity of itself and his relationships!
 
 Why we have used the aggregation! ??? 
 
-The reason is if you looked at the above diagram (Conceptually) so we dont have to model one scneario where if teacher aint teaches subject s1 but teacher used the book b1 for subject s1. so that's not what we wanted to model. we dont want that, we want "TEACHER USES Book B1 to TEACH SUBJECT S1". but the above conceptually can model "TEACHER DONT TEACHES SUBJECT S1 BUT USES BOOK B1 FOR SUBJECT S1". So aggregated entity Model it better conceptually. 
+The reason is if you looked at the above diagram (Conceptually) so we dont have to model one scneario where if teacher aint teaches subject s1 but teacher used the book b1 for subject s1. so that's not what we wanted to model. we dont want that, we want "TEACHER USES Book B1 to TEACH SUBJECT S1". but the above conceptually can model "TEACHER DONT TEACHES SUBJECT S1 BUT USES BOOK B1 FOR SUBJECT S1". So aggregated entity Model it better conceptually. **So aggregation allowed us to RELATE or map RELATIONSHIPS with RELATIONSHIPS.**
+
 
 <img width="1046" height="512" alt="image" src="https://github.com/user-attachments/assets/5ce725eb-d31b-4f23-a1a4-17320008b6e5" />
 
