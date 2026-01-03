@@ -20,3 +20,30 @@ This covers: Conceptual Modeling, Relational Algebra/Calculas, SQL Query, Integr
 <a href = "https://github.com/SourabhMulay/Database-Management-System/blob/main/Nptel/L2%20ER%20Conceptual%20Modeling.md">Conceptual Modelling( E-R Model-2)</a>
 
 <a href = "https://github.com/SourabhMulay/Database-Management-System/blob/main/Nptel/L3%20%20Conceptual%20Modeling.md"> Conceptual Modelling (E-R Model -3)</a>
+
+## Relational Algebra
+<placeholder/>
+
+## Relational Calculas 
+<placeholder/>
+
+## SQL Query
+<placeholder/>
+
+## Integrity Constraints
+<placeholder/>
+
+## Functional Dependency
+<placeholder/>
+
+## Database Decomposition
+<placeholder/>
+
+## File SYSTEM
+<placeholder/>
+
+## Recovery From Failure
+<placeholder/>
+
+## Concurrancy Control
+<placeholder/>
