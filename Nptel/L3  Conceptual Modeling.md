@@ -17,3 +17,24 @@ So now 2 type of special cases! Ticket can be reserved or unreserved. So ticket 
 
 **Unreserved Ticket:** (Attr: Local/Express, Fare ...)
 
+<hr>
+
+### Aggregation
+
+Let's consider an example.
+
+We have a SET of **TEACHERS** which forms a one form of Entity set and we also have another Entity Set called **SUBJECTS**. and We have one relationship **TEACHES**.
+
+Attributes: 
+
+TEACHER: (Attr: Name, Dept ...)
+
+SUBJECT: (Attr: Title, Subject Code, UG/PG, LTP ...)
+
+Now we want to model the set of BOOKS used by a Teacher to TEACH a SUBJECT.
+
+We have Entity Set BOOK. and also we have relationship USES which shows `TEACHER USES B1 to TEACH SUBJECT S1`.
+
+<img width="1349" height="928" alt="image" src="https://github.com/user-attachments/assets/8b61994e-9b53-4f7e-be47-fd98e068ef3c" />
+
+
