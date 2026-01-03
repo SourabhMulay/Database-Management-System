@@ -8,9 +8,11 @@ Consider a **TICKET** (In railway reservation system) can have several Attribute
 
 What we'll do suppose we have a **TICKET.** ans we have a `IS A` Relatationship!
 
+<hr>
+
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/94415d1c-8a18-42cb-9e8c-a023392a3534" />
 
-
+<hr>
 So now 2 type of special cases! Ticket can be reserved or unreserved. So ticket is generalisation of reserved and unreserved ticket. What about attribute?? So Comman Attributes will be on TICKET. (Start, Destination, Ticket No, Date of Issue) and the Other attributes is on those 2 entities.
 
 **Reserved Ticket:** (Attr: Train No, Seat No, Fare, Reservation Upto....)
