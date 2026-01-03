@@ -54,4 +54,6 @@ The reason is if you looked at the above diagram (Conceptually) so we dont have 
 <hr>
 
 
+Now if you look above the aggregation! then the teachers who teaches the subjects are aggregated as one relation and that relation is related to USES now! so the teacher who teaches the subject can only USES the BOOKS to teach!
+
 
