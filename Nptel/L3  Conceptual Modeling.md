@@ -59,6 +59,6 @@ Now if you look above the aggregation! then the teachers who teaches the subject
 
 Lets look how relational Model helps!! We can visualise these entitites with help of Tables!! 
 
-
+<hr>
 <img width="800" height="394" alt="image" src="https://github.com/user-attachments/assets/380f4da3-1b87-471e-be37-7f77912ae599" />
-
+<hr>
