@@ -57,3 +57,8 @@ The reason is if you looked at the above diagram (Conceptually) so we dont have 
 Now if you look above the aggregation! then the teachers who teaches the subjects are aggregated as one relation and that relation is related to USES now! so the teacher who teaches the subject can only USES the BOOKS to teach!
 
 
+Lets look how relational Model helps!! We can visualise these entitites with help of Tables!! 
+
+
+<img width="800" height="394" alt="image" src="https://github.com/user-attachments/assets/380f4da3-1b87-471e-be37-7f77912ae599" />
+
