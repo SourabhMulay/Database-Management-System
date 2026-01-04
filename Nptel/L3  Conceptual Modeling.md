@@ -62,3 +62,22 @@ Lets look how relational Model helps!! We can visualise these entitites with hel
 <hr>
 <img width="800" height="394" alt="image" src="https://github.com/user-attachments/assets/380f4da3-1b87-471e-be37-7f77912ae599" />
 <hr>
+
+Now suppose we have the Entity BOOK, BORROWED BY, USERS
+
+Now suppose we wanted to map the attribut of USERS and BOOKS to BORROWED BY! Now suppose the Given Attr of the BOOK IS: (Acc No, Title...etc) and for USERS : ( Card No, Name, Address, etc.)! so for the relationship we can have the unique keys from both of the table or primary key from both of tables in this case! (Acc No from BOOK and CardNo USERS) to be the attributes of relationship BORROWED BY. and let say DOI is also an additional attribute so comprises all attributes we have the BORROWED BY Relationship! 
+
+why we cant club everything together?? (BOOK + USER + BORROWD BY) in single table? because here the user may or may not have a book associated or it is not mandatory for user to borrow a book! so we cant club everything together!!
+
+Lets understand it further!! Lets say X entity is Strong entity and Y entity is Weak Entity! so Y's existing depends on X! there must be relationship exist XY inorder for Y to exist! So we cant club the X and Y together to be one relationship! 
+
+lets understand further:
+
+<hr>
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/9cf534af-efba-418e-b182-397f5c335740" />
+<hr>
+
+
+Here the X entity has its attributes and the Y entity has it's attributes! but if the Y entity is the weak entity then it may or may not have the PRIMARY KEY or unique identifier becuase its existance depend on the strong entity (assumption). Now for X entity we have one PRIMARY KEY attribute and let say that is differnt Table all together! and RELATIONSHIP XY also exist and have its own attributes! But if we merge the XY with Y then we may have all the attributes of Y in XY only becuase **Y is Weak Entity.**
+
+
