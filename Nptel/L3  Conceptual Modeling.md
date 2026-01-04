@@ -81,3 +81,31 @@ lets understand further:
 Here the X entity has its attributes and the Y entity has it's attributes! but if the Y entity is the weak entity then it may or may not have the PRIMARY KEY or unique identifier becuase its existance depend on the strong entity (assumption). Now for X entity we have one PRIMARY KEY attribute and let say that is differnt Table all together! and RELATIONSHIP XY also exist and have its own attributes! But if we merge the XY with Y then we may have all the attributes of Y in XY only becuase **Y is Weak Entity.**
 
 
+<hr>
+
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/4a0714e7-d615-4de6-b16b-888f1d901395" />
+
+<hr>
+
+Now look at the above Model! Now here the multiple books can be borrowed by a USER but one Book cannot be shared amongs the multiple user! So the relationship between the USER and BOOK is One to Many or One to One! here we have 5 tables total.
+
+**DATABASE SCHEME:**
+
+1. BOOK_SCHEME ( ACC_NO, Year, Title )
+2. USER_SCHEME ( CARD_NO, Name, Address )
+3. SUPPLIER_SCHEME ( S_NAME , S_Address )
+4. BORROWED_BY ( ACC_NO, CARD_NO , Date of Issue )
+5. SUPPLIED_BY ( ACC_NO, Price, Date of Supplied, S_NAME )
+
+
+Now here we have a Database Defination! 
+
+Instances:
+
+Book(BOOK_SCHEME)
+
+User(USER_SCHEME)
+
+Supplier(SUPPLIER_SCHEME)
+
+
