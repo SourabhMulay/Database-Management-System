@@ -4,6 +4,8 @@ NOTE:
 
 This covers: Conceptual Modeling, Relational Algebra/Calculas, SQL Query, Integrity Constraint, Functional Dependency, Decomposition, File System, Recovery From Failure, [Major] Concurrency Control)
 
+This will help you in Designing and Modeling the Database. (High Level Design)
+
 # Database Management Systems 📀
 
 > Book Recommendation:
