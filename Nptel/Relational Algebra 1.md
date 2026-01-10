@@ -12,5 +12,6 @@ For each we have domain of attributes and Domain of Attribute is defined as DOM(
 
 `DOM(C) = {'Saurabh', 'Sarah'} `
 
+**So now relation R of Attribute (A and B) is Subset of DOM(A) * DOM(B). (Cross Product).**
 
 
