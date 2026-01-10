@@ -22,7 +22,7 @@ This covers: Conceptual Modeling, Relational Algebra/Calculas, SQL Query, Integr
 <a href = "https://github.com/SourabhMulay/Database-Management-System/blob/main/Nptel/L3%20%20Conceptual%20Modeling.md"> Conceptual Modelling (E-R Model -3)</a>
 
 ## Relational Algebra
-<placeholder/>
+<a href="https://github.com/SourabhMulay/Database-Management-System/blob/main/Nptel/Relational%20Algebra%201.md"> Relational Algebra </a>
 
 ## Relational Calculas 
 <placeholder/>
