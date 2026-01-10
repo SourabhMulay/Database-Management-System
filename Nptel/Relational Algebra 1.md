@@ -1,3 +1,23 @@
+"""""
+`DATABASE SCHEME:`
+
+1. BOOK_SCHEME ( ACC_NO, Year, Title )
+2. USER_SCHEME ( CARD_NO, Name, Address )
+3. SUPPLIER_SCHEME ( S_NAME , S_Address )
+4. BORROWED_BY ( ACC_NO, CARD_NO , Date of Issue )
+5. SUPPLIED_BY ( ACC_NO, Price, Date of Supplied, S_NAME )
+Now here we have a Database Definations!
+
+`Instances:`
+
+1. Book(BOOK_SCHEME)
+2. User(USER_SCHEME)
+3. Supplier(SUPPLIER_SCHEME)
+4. Borrow(Borrowed_By)
+5. Supplier(Supplied_By)
+
+"""""
+
 # Relational Algebra
 
 **Concept of Relation:**
