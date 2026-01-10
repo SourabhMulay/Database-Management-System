@@ -118,3 +118,4 @@ Domain is nothing but possible values of attributes!! So here and in cartesian p
 <img width="500" height="451" alt="image" src="https://github.com/user-attachments/assets/04238ca0-e3ae-47ac-94cb-bc38a2f80dea" />
 
 
+
