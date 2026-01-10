@@ -88,4 +88,5 @@ Pi (Acc_No, Title)  (Book).
 
 So it does project On Acc_No and Title or certain attributes which we mention in project Query. 
 
+<img width="500" height="396" alt="image" src="https://github.com/user-attachments/assets/1fffc0ce-14e0-4230-99f8-7204c451efa5" />
 
