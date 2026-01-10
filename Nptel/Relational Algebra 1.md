@@ -75,3 +75,10 @@ Another Example could be:
 <img width="500" height="260" alt="image" src="https://github.com/user-attachments/assets/94256c6a-c81a-4fdb-bd04-0fb36d863e5c" />
 
 This shows rhe standard boolean expression. ( ^ shows AND Operation ).
+
+
+`Project Operation:` It identify as Symbol Pi. Its differ than select in many ways.
+
+Pi (Acc_No, Title)  (Book). 
+
+<img width="500" height="162" alt="image" src="https://github.com/user-attachments/assets/2ddb30e4-453d-4ca9-b98f-b59c053383d9" />
