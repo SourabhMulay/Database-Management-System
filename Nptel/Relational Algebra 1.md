@@ -92,3 +92,26 @@ So the second query mean: Find out All Books Titles (Unique) which has YR_PUB > 
 
 and 3rd query mean PROJECT Title and YR_Pub from Book and then select from that table where YR_PUB = 1991.
 
+<hr>
+
+`The Cartesian Product: (X)` 
+
+It's not possible combination of individual attributes of tables but the Tuple Tuple combination. (Like row0 from table 0 to all tuples/rows from table 1)
+
+Suppose one table got attribute 'A' and the Other Table has attribute 'B'.
+
+a has values {1, 2, 3} 
+
+b has values {A, B}
+
+So now the Cartesian product is nothing but combination of values/tuple of both of the tables. So we'll get the resultant table having both attribute 'A' and 'B'.
+
+`(A,B) = {(1,A), (2,A), (3,A), (1,B), (2,B), (3,B)}`.
+
+
+Lets have relation 'r' having attributes (A,B) and lets have relation 's' having attributes (B,C). So the (r X s) shown as :
+
+
+<img width="500" height="451" alt="image" src="https://github.com/user-attachments/assets/04238ca0-e3ae-47ac-94cb-bc38a2f80dea" />
+
+
