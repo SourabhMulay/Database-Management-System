@@ -76,9 +76,16 @@ Another Example could be:
 
 This shows rhe standard boolean expression. ( ^ shows AND Operation ).
 
+<hr>
 
 `Project Operation:` It identify as Symbol Pi. Its differ than select in many ways.
+
+This work as SET! So it whatsoever data it return won't have the DUPLICATES.
 
 Pi (Acc_No, Title)  (Book). 
 
 <img width="500" height="162" alt="image" src="https://github.com/user-attachments/assets/2ddb30e4-453d-4ca9-b98f-b59c053383d9" />
+
+So it does project On Acc_No and Title or certain attributes which we mention in project Query. 
+
+
