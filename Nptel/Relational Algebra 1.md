@@ -118,4 +118,26 @@ Domain is nothing but possible values of attributes!! So here and in cartesian p
 <img width="500" height="451" alt="image" src="https://github.com/user-attachments/assets/04238ca0-e3ae-47ac-94cb-bc38a2f80dea" />
 
 
+<hr>
+
+> Find the Acc No Of All Books issued by Saurabh. 
+
+Referance to above Relationships mentioned! We need (USER X Borrow) to have all possible combination of user with borrow relation.
+
+r = USER X Borrow
+
+**r Has Attributes:**
+
+User.Card_No, User.B_Name, User.B_Address, Borrow.Acc_No, Borrow.Card_No, Borrow.DateOfIssue. 
+
+Now i can say that "Saurabh" as user share one unique Card_No. and I can say that i need my relation or cartisian product outcome to have filter or tuples must have same Card No as user. So when i get the same Card_No then only i'll return those Acc No's.
+
+So I can say now, `User.Card_No == Borrow.Card_No AND User.B_Name == 'Saurabh'.` These conditions must statisfy to collect the required tuples from table.
+
+and we'll project out only the Acc No.
+
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/d140d75f-181f-4f01-ac27-7eed8ca433d6" />
+
+
+
 
