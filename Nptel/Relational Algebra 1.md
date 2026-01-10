@@ -7,6 +7,7 @@
 3. SUPPLIER_SCHEME ( S_NAME , S_Address )
 4. BORROWED_BY ( ACC_NO, CARD_NO , Date of Issue )
 5. SUPPLIED_BY ( ACC_NO, Price, Date of Supplied, S_NAME )
+
 Now here we have a Database Definations!
 
 `Instances:`
