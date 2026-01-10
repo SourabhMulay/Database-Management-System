@@ -111,6 +111,7 @@ So now the Cartesian product is nothing but combination of values/tuple of both 
 
 Lets have relation 'r' having attributes (A,B) and lets have relation 's' having attributes (B,C). So the (r X s) shown as :
 
+Domain is nothing but possible values of attributes!! So here and in cartesian product case, `(r X s) != DOM(A) * DOM(B) * DOM(c).`
 
 <img width="500" height="451" alt="image" src="https://github.com/user-attachments/assets/04238ca0-e3ae-47ac-94cb-bc38a2f80dea" />
 
