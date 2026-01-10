@@ -68,7 +68,10 @@ Addtional Operations:
 
 <img width="500" height="160" alt="image" src="https://github.com/user-attachments/assets/bf050848-e18c-4ad5-9b19-aa23e3871be2" />
 
-So now above we say, Select YR_PUB from Book Where YR_PUB = 1992.
+So now above we say, Select all the books where YR_PUB = 1992. So this select operation will return a table of relation contain specific Tuples as per the constraints.
 
+Another Example could be:
 
+<img width="500" height="260" alt="image" src="https://github.com/user-attachments/assets/94256c6a-c81a-4fdb-bd04-0fb36d863e5c" />
 
+This shows rhe standard boolean expression. ( ^ shows AND Operation ).
