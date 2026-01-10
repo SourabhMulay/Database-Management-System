@@ -139,5 +139,9 @@ and we'll project out only the Acc No.
 <img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/d140d75f-181f-4f01-ac27-7eed8ca433d6" />
 
 
+Note: It should be Borrow.Acc_No not User.Acc_No.
+
+<hr>
+
 
 
