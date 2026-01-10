@@ -64,3 +64,11 @@ Addtional Operations:
 4. Assignment
 5. Theta - Join
 
+`Select Operation:` It has purpose to identify the Set of Tuples in table to extract out. It shows in symbol "Sigma".
+
+<img width="500" height="160" alt="image" src="https://github.com/user-attachments/assets/bf050848-e18c-4ad5-9b19-aa23e3871be2" />
+
+So now above we say, Select YR_PUB from Book Where YR_PUB = 1992.
+
+
+
