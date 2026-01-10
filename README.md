@@ -1,6 +1,6 @@
 `NOTE:` 
 
-(WORK IN PROGRESS: This is huge and may take some time)
+> (WORK IN PROGRESS: This is huge and may take some time)
 
 This covers: Conceptual Modeling, Relational Algebra/Calculas, SQL Query, Integrity Constraint, Functional Dependency, Decomposition, File System, Recovery From Failure, [Major] Concurrency Control)
 
