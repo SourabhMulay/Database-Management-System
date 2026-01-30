@@ -148,4 +148,24 @@ This is the database scheme we'll be using goin forward!
 <img width="500" height="952" alt="Screenshot 2026-01-30 at 10 08 59 AM" src="https://github.com/user-attachments/assets/26d8da49-06ca-495f-aaa0-1fbc4fe3cbb4" />
 
 
+1. INTERSECTION operation
+
+   So if we have  r INTERSECTION s ! then it returns those tuples which are comman in both relations.
+
+   suppose r have two attributes A and B and s also have same attributes and containing the data or tuple: (a,1). (b,3) and in s we have (a,1),(b,4) then the comman between both will be (a,1). and that is the result of Intersection.
+
+   Now r INTERSECTION s can also been shown as `r - (r-s)`. (r-s) is nothing but those set of tuples in r which is not in s in our case (b,3) is such a tuple.
+
+
+2. NATURAL JOIN
+
+    <img width="500" height="100" alt="image" src="https://github.com/user-attachments/assets/098f04bc-30f1-4705-bd3e-270069e7ace4" />
+
+   Suppose I have relation r and relation s.
+
+   
+
+   
+
+   
 
