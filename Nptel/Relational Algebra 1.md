@@ -143,5 +143,9 @@ Note: It should be Borrow.Acc_No not User.Acc_No.
 
 <hr>
 
+This is the database scheme we'll be using goin forward!
+
+<img width="500" height="952" alt="Screenshot 2026-01-30 at 10 08 59 AM" src="https://github.com/user-attachments/assets/26d8da49-06ca-495f-aaa0-1fbc4fe3cbb4" />
+
 
 
