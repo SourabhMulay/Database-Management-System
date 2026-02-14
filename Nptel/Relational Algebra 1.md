@@ -252,9 +252,12 @@ This is the database scheme we'll be using goin forward!
 
    `It means`:
    
-   A contains pairs (x, y)
-   B contains values (y)
-   C will contain those x values that are associated with every y in B
+   1. A contains pairs (x, y)
+   2. B contains values (y)
+   3. C will contain those x values that are associated with every y in B
+   
+   
+   
    
 
    
