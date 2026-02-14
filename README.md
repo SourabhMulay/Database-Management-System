@@ -28,7 +28,7 @@ This will help you in Designing and Modeling the Database. (High Level Design)
 <a href="https://github.com/SourabhMulay/Database-Management-System/blob/main/Nptel/Relational%20Algebra%201.md"> Relational Algebra </a>
 
 ## Relational Calculas 
-<placeholder/>
+<a href="https://github.com/SourabhMulay/Database-Management-System/blob/main/Nptel/Relational%20Calculas.md"> Relational Calculas </a>
 
 ## SQL Query
 <placeholder/>
