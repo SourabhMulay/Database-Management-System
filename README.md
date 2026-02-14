@@ -9,6 +9,7 @@ This will help you in Designing and Modeling the Database. (High Level Design)
 # Database Management Systems 📀
 
 > Book Recommendation:
+[Database Internals.pdf](https://github.com/user-attachments/files/25310295/Database.Internals.pdf)
 
 
 ## Introduction 🤓
