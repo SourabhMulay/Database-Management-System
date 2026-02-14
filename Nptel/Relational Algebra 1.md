@@ -176,6 +176,23 @@ This is the database scheme we'll be using goin forward!
    <img width="500" height="892" alt="image" src="https://github.com/user-attachments/assets/34754591-0715-40ae-92af-24ead126e547" />
 
 
+   So it will only select those tuples where `r.B == s.B` and it'll project out `(r.A, r.B, r.C, s.D)`.
+
+   This is very useful in many cases, So let's check some examples. We got the books and the Borrow relationships.
+
+   Book: (Acc_No, YR_Pub, Title)
+
+   Borrow: (Acc_No, Card_No, DateOfIss)
+
+   So `Book NATURAL JOIN Borrow` has (Acc_No, YR_pub, Title, Card_no, DateOfIss). and here Acc_No is thre comman key or joining key.
+
+   Finding the Title of all Books issued under Card No: F53!
+
+   <img width="500" height="258" alt="image" src="https://github.com/user-attachments/assets/c1fa3cda-cb61-4487-926d-8925846a4c23" />
+
+
+   
+
    
 
    
