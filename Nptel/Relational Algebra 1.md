@@ -161,9 +161,20 @@ This is the database scheme we'll be using goin forward!
 
     <img width="500" height="100" alt="image" src="https://github.com/user-attachments/assets/098f04bc-30f1-4705-bd3e-270069e7ace4" />
 
-   Suppose I have relation r and relation s.
+   Suppose I have relation r and relation s. and If r INTERSECTION s == Null (Likely no comman attributues) then
 
-   
+   `r NATURAL JOIN s == r * s` and r * s is nothing but a Cartesian product! All attributes from r and s are combined in relationship table.
+
+   Natural Join is useful when there is commanality between the attributes. Suppose take an example : r as relationship has "" A, B. C ""  as attributes. and s as a relationship has ""B, D "" as an attribues.
+
+   Now `r NATURAL JOIN s` has attributes "" A, B, C, D "". and this is nothing but `r UNION s`.
+
+   As here the B is a Comman Attribute. Suppose we take a cartesian product! (Combining one row of r with all in s) but here in Natural Join we need to check the comman attribute. It must match! it'll combine in natural join with one which has comman B's attribute value.
+
+   for example:
+
+   <img width="500" height="892" alt="image" src="https://github.com/user-attachments/assets/34754591-0715-40ae-92af-24ead126e547" />
+
 
    
 
