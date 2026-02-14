@@ -236,7 +236,10 @@ This is the database scheme we'll be using goin forward!
    <img width="500" height="427" alt="image" src="https://github.com/user-attachments/assets/ef366d2b-786a-4151-87a6-757d4fb6fc15" />
 
 
-   
+   To Generalised the NATURAL JOIN:
+
+   <img width="500" height="520" alt="image" src="https://github.com/user-attachments/assets/1153b827-fc8f-4052-8494-e75da1f69340" />
+
 
    
    
