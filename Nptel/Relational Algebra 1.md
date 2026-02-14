@@ -259,7 +259,14 @@ This is the database scheme we'll be using goin forward!
    3. C will contain those x values that are associated with every y in B
 
    
-   
+   Let's take an example:
+
+   B. Selecting the Acc_No from borrow relation where card_no is f53.
+
+   A. and Get Acc_No and S_name from supplier relation and now.
+
+   Now A / B is tuple what has Attributes (A-B) has! which is only Supplier Name.....(Learn more about this by your own).
+
    
    
 
