@@ -246,7 +246,15 @@ This is the database scheme we'll be using goin forward!
    
 3. The DIVISION/QUOTIENT Operation. (/)
 
+   <img width="500" height="946" alt="image" src="https://github.com/user-attachments/assets/cb4191f4-21e8-4e55-8025-d9d75f31ba93" />
+
+   A ÷ B = C defined as:
+
+   `It means`:
    
+   A contains pairs (x, y)
+   B contains values (y)
+   C will contain those x values that are associated with every y in B
    
 
    
