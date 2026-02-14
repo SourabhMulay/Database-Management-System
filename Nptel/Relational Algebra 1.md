@@ -196,8 +196,32 @@ This is the database scheme we'll be using goin forward!
 
     But we can write it in other ways also:
 
-   <img width="500" height="605" alt="image" src="https://github.com/user-attachments/assets/685d0e3a-ecc8-467a-930d-b51c3880a3fd" />
+    <img width="500" height="658" alt="image" src="https://github.com/user-attachments/assets/ebc0a731-aed7-4379-bddc-9774c5967e84" />
 
+
+    Let's quickly understand what Natural Join does when there are more than 1 comman attributes:
+
+   So lets have relation `r: (A, B, C)` and `s: (B, C, D)`.
+
+   now `r NATURAL JOIN s` has (A, B, C, D). So here from r relation the (B, C) sub-tuple must match sith sub-tuple of s: (B, C).
+
+   <img width="500" height="607" alt="image" src="https://github.com/user-attachments/assets/1a46a889-84f9-45ab-9e93-e2d39da8728a" />
+
+   So in NATURAL JOIN if there are multiple comman Attributes then all must be matched to find tuples in resultant relationships. So we'll come back what we did already! we had a `( (USER JOIN BORROW) JOIN BOOK)` and we also had other option  `( (USER JOIN BOOK) JOIN BORROW ) ` so the question is are they identical? USER has got comman attribute with borrow that's a CARD_NO and the relationship (USER JOIN BORROW) got attributes and amongst all the ACC_No is comman with BOOK.
+
+   And (USER JOIN BOOK) has no comman Attribute so it takes the cartesian product that has all the attributes and amongst all attributes the Card_No, Acc_No is cooman to BORROW. SO whatever you get out of 1st relationship is same as second. So WE Can say that `the NATURAL JOIN Operation is Not only associative Operation but also Communtative Operation.`
+
+   Take REF:
+
+   <img width="500" height="545" alt="image" src="https://github.com/user-attachments/assets/29187808-20ae-43e2-a7ba-f8a27447457e" />
+
+   
+   
+   
+
+   
+
+   
    
 
    
