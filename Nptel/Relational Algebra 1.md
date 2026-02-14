@@ -156,6 +156,7 @@ This is the database scheme we'll be using goin forward!
 
    Now r INTERSECTION s can also been shown as `r - (r-s)`. (r-s) is nothing but those set of tuples in r which is not in s in our case (b,3) is such a tuple.
 
+<hr>
 
 2. NATURAL JOIN
 
@@ -241,7 +242,7 @@ This is the database scheme we'll be using goin forward!
    <img width="500" height="520" alt="image" src="https://github.com/user-attachments/assets/1153b827-fc8f-4052-8494-e75da1f69340" />
 
 
-   
+   <hr>
    
 3. The DIVISION/QUOTIENT Operation. (/)
 
