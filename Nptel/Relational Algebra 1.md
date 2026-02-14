@@ -248,7 +248,9 @@ This is the database scheme we'll be using goin forward!
 
    <img width="500" height="946" alt="image" src="https://github.com/user-attachments/assets/cb4191f4-21e8-4e55-8025-d9d75f31ba93" />
 
-   A ÷ B = C defined as:
+   so above shows the attributes in r and s. So r / s will be the pair choosen which must be in s. So (p,a) and (p,b) must exist in r so to exist in resul (r/s).
+   
+   A ÷ B = C defined and 
 
    `It means`:
    
