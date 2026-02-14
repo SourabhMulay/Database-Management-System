@@ -215,9 +215,26 @@ This is the database scheme we'll be using goin forward!
 
    <img width="500" height="545" alt="image" src="https://github.com/user-attachments/assets/29187808-20ae-43e2-a7ba-f8a27447457e" />
 
+   Lets see one QUERY: FIND out the Names of All Supplier Who have Supplied Books Issued By Vijay.
+
+   We have to find out name of Supplier... Supplied By realtionShip has (Acc_No, Supp_Name).. so Acc_No is primary key again.... User schema has (Card_No, B_Name, B_Address) and Borrowed_By has (Acc_No, Card_No) so between two relationships the Card_No is comman! so we can take NATURAL JOIN Of (USER WITH Borrowed_By) and that gives us a Comman attribute ACC_No. and again if we take Natural Join of these relationship with SuppliedBy then we can find out the Supplier Name because ACC_NO is one of attribute that matches with recent relationship..
+
+   Overview:
+
+   USER ( Card_No, B_Name, B_Address ).
+
+   Borrowed_By ( ACC_NO, Card_No, DOI ).
+
+   USER NATURAL JOIN BORROWEDBY will give us (CARD_NO, ACC_NO, DOI, B_NAME, B_ADDrs ).
+
+   SUPPLIED BY (ACC_NO, S_NAME, PRICE, DOS).
    
+   and NOW ( (USER JOIN BORROWED_BY) JOIN SUPPLIED_BY)  Has ACC_NO as Join KEY. So we can easily find out the Supplier Names.
    
+   So,
    
+   <img width="500" height="427" alt="image" src="https://github.com/user-attachments/assets/ef366d2b-786a-4151-87a6-757d4fb6fc15" />
+
 
    
 
