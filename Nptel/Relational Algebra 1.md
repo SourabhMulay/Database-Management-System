@@ -190,6 +190,13 @@ This is the database scheme we'll be using goin forward!
 
    <img width="500" height="258" alt="image" src="https://github.com/user-attachments/assets/c1fa3cda-cb61-4487-926d-8925846a4c23" />
 
+   Find out the Title of All Books issued by Vijay! (FROM USer: (Card_No, Name, Address).
+
+   <img width="500" height="306" alt="image" src="https://github.com/user-attachments/assets/6fd74f2b-d979-4d1e-b372-a80f172c42ee" />
+
+    But we can write it in other ways also:
+
+   <img width="500" height="605" alt="image" src="https://github.com/user-attachments/assets/685d0e3a-ecc8-467a-930d-b51c3880a3fd" />
 
    
 
