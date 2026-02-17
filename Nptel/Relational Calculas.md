@@ -12,3 +12,4 @@ there are two well known formulations:
 
 1. Tuple Relational Calculas
 2. Domain Relational Calculas
+
