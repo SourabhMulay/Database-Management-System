@@ -26,3 +26,21 @@ this is represented in set format. the "t" is tuple variable and "p(t)" is predi
 
 > S = { t | p(t) }
 
+Lets get back to the our Defined Database Scheme:
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/9153f2f3-dd41-47ce-95a6-b86b38df1217" />
+
+
+A Tuple relational calculus relation will look like:
+
+> S = { t | t ∈ Book ^ t[YR_PUB] = '1991' }
+
+or
+
+> S = { t | t ∈ Book ( t[YR_PUB] = '1991') }
+
+
+This Set S has all attributes of Table Book. There are other ways also to get subset of books. and For every tuple of S the relation   `( t[YR_PUB] = '1991') ` must be true. So the New Relation S contain the Books published in 1991. 
+
+ 
+
