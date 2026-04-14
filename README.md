@@ -53,6 +53,6 @@ This will help you in Designing and Modeling the Database. (High Level Design)
 
 <hr>
 
-## DBMS - Extended
+## DBMS - Extended 📊
 
 ## Overview and prerequisite
