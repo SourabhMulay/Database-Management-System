@@ -56,3 +56,5 @@ This will help you in Designing and Modeling the Database. (High Level Design)
 ## DBMS - Extended 📊
 
 ## Overview and prerequisite
+
+<a href="https://github.com/SourabhMulay/Database-Management-System/tree/main/Extended"> Prerequisite </a> 
