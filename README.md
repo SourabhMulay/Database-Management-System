@@ -50,3 +50,9 @@ This will help you in Designing and Modeling the Database. (High Level Design)
 
 ## Concurrancy Control
 <placeholder/>
+
+<hr>
+
+## DBMS - Extended
+
+## Overview and prerequisite
